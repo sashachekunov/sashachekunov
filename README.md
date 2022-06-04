@@ -8,6 +8,10 @@
 
 ### Find me at:
 
+[<img align="left" alt="sashachekunov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="sashachekunov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="chequnov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[telegram]: http://t.me/sashachekunov
+[vk]: https://vk.com/sashachekunov
 [instagram]: https://www.instagram.com/chequnov
