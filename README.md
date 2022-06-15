@@ -12,6 +12,6 @@
 [<img align="left" alt="sashachekunov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="chequnov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[telegram]: t.me/sashachekunov
-[vk]: vk.com/sashachekunov
-[instagram]: instagram.com/chequnov
+[telegram]: https://t.me/sashachekunov
+[vk]: https://vk.com/sashachekunov
+[instagram]: https://instagram.com/chequnov
